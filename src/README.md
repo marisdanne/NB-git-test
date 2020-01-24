@@ -4,3 +4,7 @@
 #### Virskrasts 4
 
 Šis ir tests, kā lietot github repozitoriju.
+
+'''
+Šis ir kods
+'''
