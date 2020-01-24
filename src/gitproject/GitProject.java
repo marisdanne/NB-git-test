@@ -23,6 +23,8 @@ public class GitProject {
         System.out.println("Sveika, pasaule!");
         System.out.println("Sveika, pasaule!");
         System.out.println("Sveika, pasaule!");
+        System.out.println("Sveika, pasaule!");
+        System.out.println("Sveika, pasaule!");
     }
     
 }
